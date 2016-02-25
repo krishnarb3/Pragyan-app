@@ -8,9 +8,9 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.delta.pragyan16.QRScreen">
+    tools:context="org.pragyan.pragyantshirtapp.QRScreen">
 
-    <com.delta.pragyan16.fTextView
+    <org.pragyan.pragyantshirtapp.fTextView
         android:id="@+id/welcomeText"
         android:layout_width="wrap_content"
         android:textColor="#fff"
@@ -27,7 +27,7 @@
         android:visibility="invisible"
         />
 
-    <com.delta.pragyan16.fTextView
+    <org.pragyan.pragyantshirtapp.fTextView
         android:layout_width="wrap_content"
         android:textColor="#fff"
         android:layout_height="wrap_content"

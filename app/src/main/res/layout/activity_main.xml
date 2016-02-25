@@ -23,7 +23,7 @@
 
             android:id="@+id/frac2">
 
-            <com.delta.pragyan16.fTextView
+            <org.pragyan.pragyantshirtapp.fTextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="5dp"
@@ -50,7 +50,7 @@ android:weightSum="2"
                 android:padding="5dp"
                 android:background="#d35400"
                 android:id="@+id/frac3">
-                    <com.delta.pragyan16.fTextView
+                    <org.pragyan.pragyantshirtapp.fTextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="schedule"
@@ -166,7 +166,7 @@ android:weightSum="2"
                     android:padding="5dp"
                     android:id="@+id/frac4">
 
-                    <com.delta.pragyan16.fTextView
+                    <org.pragyan.pragyantshirtapp.fTextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="profile"
@@ -189,7 +189,7 @@ android:gravity="right|bottom"
 
         android:layout_height="0dp"
         android:id="@+id/frac1">
-        <com.delta.pragyan16.fTextView
+        <org.pragyan.pragyantshirtapp.fTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/txtevents"

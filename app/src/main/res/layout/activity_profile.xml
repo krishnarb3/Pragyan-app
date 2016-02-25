@@ -9,9 +9,9 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.delta.pragyan16.ProfileActivity">
+    tools:context="org.pragyan.pragyantshirtapp.ProfileActivity">
 
-    <com.delta.pragyan16.fTextView
+    <org.pragyan.pragyantshirtapp.fTextView
         android:id="@+id/welcomeTextfull"
         android:layout_width="wrap_content"
         android:textColor="#fff"
@@ -19,7 +19,7 @@
         android:text="Welcome, "
         android:textSize="30sp" />
 
-    <com.delta.pragyan16.fTextView
+    <org.pragyan.pragyantshirtapp.fTextView
         android:id="@+id/p_id"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -29,7 +29,7 @@
         android:textSize="25sp" />
 
 
-    <com.delta.pragyan16.fTextView
+    <org.pragyan.pragyantshirtapp.fTextView
         android:id="@+id/email_id"
         android:layout_width="wrap_content"
         android:textColor="#fff"
@@ -44,7 +44,7 @@
         Email ID
     -->
 
-    <com.delta.pragyan16.fTextView
+    <org.pragyan.pragyantshirtapp.fTextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
@@ -63,7 +63,7 @@
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
             android:layout_weight="1" />
-        <com.delta.pragyan16.fTextView
+        <org.pragyan.pragyantshirtapp.fTextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
 

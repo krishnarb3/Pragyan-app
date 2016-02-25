@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/pragyan_dark_grey"
-    tools:context="com.delta.pragyan16.SplashScreen">
+    tools:context="org.pragyan.pragyantshirtapp.SplashScreen">
 
     <ImageView
         android:id="@+id/logo_app_0"

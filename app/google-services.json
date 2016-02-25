@@ -1,17 +1,17 @@
 {
   "project_info": {
-    "project_id": "pragyan-main-app",
-    "project_number": "877539510601",
-    "name": "Pragyan main app"
+    "project_id": "pragyan-app",
+    "project_number": "737753127201",
+    "name": "Pragyan app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:877539510601:android:99b9c2d6308f5f2d",
-        "client_id": "android:com.delta.pragyan16",
+        "mobilesdk_app_id": "1:737753127201:android:8eab424e080dab9d",
+        "client_id": "android:org.pragyan.pragyantshirtapp",
         "client_type": 1,
         "android_client_info": {
-          "package_name": "com.delta.pragyan16"
+          "package_name": "org.pragyan.pragyantshirtapp"
         }
       },
       "oauth_client": [],

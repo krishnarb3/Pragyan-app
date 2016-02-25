@@ -1,6 +1,6 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.delta.pragyan16.EventDetailActivity">
+    tools:context="org.pragyan.pragyantshirtapp.EventDetailActivity">
     <item
         android:id="@+id/action_settings"
         android:orderInCategory="100"

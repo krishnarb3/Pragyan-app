@@ -17,5 +17,5 @@
     <string name="title_activity_login">Sign in</string>
     <string name="title_activity_register">Registration</string>
     <string name="title_activity_notify">Notify</string>
-    <string name="title_activity_schedule">ScheduleActivity</string>
+    <string name="title_activity_schedule">Schedule</string>
 </resources>

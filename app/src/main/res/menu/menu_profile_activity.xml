@@ -2,7 +2,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.delta.pragyan16.ProfileActivity">
+    tools:context="org.pragyan.pragyantshirtapp.ProfileActivity">
 
     <item
         android:id="@+id/qr_code"

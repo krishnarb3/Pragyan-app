@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Pragyan-app.iml" filepath="$PROJECT_DIR$/Pragyan-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/giv/giv.iml" filepath="$PROJECT_DIR$/giv/giv.iml" />
     </modules>
   </component>
 </project>

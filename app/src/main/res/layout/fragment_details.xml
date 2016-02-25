@@ -16,7 +16,7 @@
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
-            <com.delta.pragyan16.fTextView
+            <org.pragyan.pragyantshirtapp.fTextView
                 android:id="@+id/detailText"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -27,7 +27,7 @@
                 android:layout_alignParentTop="true"
                 android:layout_centerHorizontal="true" />
 
-            <com.delta.pragyan16.fTextView
+            <org.pragyan.pragyantshirtapp.fTextView
                 android:id="@+id/descriptionDetail"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
